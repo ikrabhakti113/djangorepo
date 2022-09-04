@@ -1,0 +1,1 @@
+web: gunicorn kuli_proyek.wsgi --log-file -
